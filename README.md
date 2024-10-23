@@ -1,5 +1,7 @@
 **Overview**
+_______________________________________________________________________________________________________________________________________________
 **Customer-Churn-Prediction-with-ML**
+
 This project aims to develop a predictive model that identifies customers likely to churn, i.e., leave a bank, versus those who remain loyal. 
 The analysis will be based on the [churn.csv] Kaggle dataset, which provides relevant customer information.
 
