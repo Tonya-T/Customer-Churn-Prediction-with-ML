@@ -10,3 +10,12 @@ This project also involves integrating a language model that can generate person
 
 Moreover, the model will be designed to generate customized retention emails for customers who are at risk of leaving the bank, with the goal 
 of reducing churn rates and improving customer satisfaction.
+
+
+**key steps in the machine learning pipeline, including:**
+
+**Visualizing and preprocessing the data**
+**Training and testing various models using the prepared data**
+**Comparing the performance of different models and selecting the most effective one**
+**Employing techniques such as feature engineering, hyperparameter tuning, and ensemble methods to improve each model's accuracy**
+
